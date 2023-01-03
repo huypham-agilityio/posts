@@ -6,29 +6,5 @@
     "publishedTime": "05 Sep 2022",
     "category": {"name": "SERVICE"},
     "image": {"src": "/post.png"}
-  },
-  {
-    "id": "2",
-    "title": "How To Deliver a Successful Product Launch",
-    "author": "Joshua Nash",
-    "publishedTime": "05 Sep 2022",
-    "category": {"name": "SERVICE"},
-    "image": {"src": "/post.png"}
-  },
-  {
-    "id": "3",
-    "title": "How To Deliver a Successful Product Launch",
-    "author": "Joshua Nash",
-    "publishedTime": "05 Sep 2022",
-    "category": {"name": "SERVICE"},
-    "image": {"src": "/post.png"}
-  },
-  {
-    "id": "4",
-    "title": "How To Deliver a Successful Product Launch",
-    "author": "Joshua Nash",
-    "publishedTime": "05 Sep 2022",
-    "category": {"name": "SERVICE"},
-    "image": {"src": "/post.png"}
   }
 ]
