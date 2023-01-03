@@ -5,7 +5,7 @@
     "author": "Joshua Nash",
     "publishedTime": "05 Sep 2022",
     "category": {"name": "SERVICE"},
-    "image": {"src": "/post.png"},
+    "image": {"src": "/post.png"}
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "author": "Joshua Nash",
     "publishedTime": "05 Sep 2022",
     "category": {"name": "SERVICE"},
-    "image": {"src": "/post.png"},
+    "image": {"src": "/post.png"}
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "author": "Joshua Nash",
     "publishedTime": "05 Sep 2022",
     "category": {"name": "SERVICE"},
-    "image": {"src": "/post.png"},
+    "image": {"src": "/post.png"}
   },
   {
     "id": "4",
@@ -29,6 +29,6 @@
     "author": "Joshua Nash",
     "publishedTime": "05 Sep 2022",
     "category": {"name": "SERVICE"},
-    "image": {"src": "/post.png"},
-  },
+    "image": {"src": "/post.png"}
+  }
 ]
